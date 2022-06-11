@@ -1,0 +1,13 @@
+﻿  Player.cpp
+C:\Users\miaik\Documents\Practica_GPD0721_15790-main\Player.cpp(15,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\miaik\Documents\Practica_GPD0721_15790-main\Player.cpp(17,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\miaik\Documents\Practica_GPD0721_15790-main\Player.cpp(22,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\miaik\Documents\Practica_GPD0721_15790-main\Player.cpp(22,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\miaik\Documents\Practica_GPD0721_15790-main\Player.cpp(26,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\miaik\Documents\Practica_GPD0721_15790-main\Player.cpp(35,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\miaik\Documents\Practica_GPD0721_15790-main\Player.cpp(35,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\miaik\Documents\Practica_GPD0721_15790-main\Player.cpp(43,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\miaik\Documents\Practica_GPD0721_15790-main\Player.cpp(44,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\miaik\Documents\Practica_GPD0721_15790-main\Player.cpp(45,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\miaik\Documents\Practica_GPD0721_15790-main\Player.cpp(46,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  GPD0721_15790_POOIFSV.vcxproj -> C:\Users\miaik\Documents\Practica_GPD0721_15790-main\Debug\GPD0721_15790_POOIFSV.exe

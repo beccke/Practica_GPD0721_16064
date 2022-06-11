@@ -1,0 +1,3 @@
+D:\isai1\Documents\Programación Orientada a Objetos I\GPD0721_15790_POOIFSV\Debug\GPD0721_15790_POOIFSV.exe
+D:\isai1\Documents\Programación Orientada a Objetos I\Practica_GPD0721_15790\Debug\GPD0721_15790_POOIFSV.exe
+C:\Users\miaik\Documents\Practica_GPD0721_15790-main\Debug\GPD0721_15790_POOIFSV.exe
